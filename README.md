@@ -3,11 +3,11 @@
 
 ⭐️ I’m currently studying Frontend development
 
-I LIKE
-⚛️ REACT
-💻 HTML / CSS / JS
-🟨 UX
-👩‍🎨 FIGMA
+## I LIKE
+* ⚛️ REACT
+* 💻 HTML / CSS / JS
+* 🟨 UX
+* 👩‍🎨 FIGMA
 
 CONTACT ME
 📧 Email

@@ -9,9 +9,9 @@
 * 🟨 UX
 * 👩‍🎨 FIGMA
 
-CONTACT ME
-📧 Email
-🔵 LinkedIn
+## CONTACT ME
+* 📧 Email
+* 🔵 LinkedIn
 
 
 Right now you can only see our very first school projects here

@@ -29,7 +29,7 @@ Currently working at **Warner Bros. Discovery** with digital content and UX opti
 • Developed a proof of concept for a major client  
 
 **Sales & Logistics**  
-*Dressmann, Dagab*  
+*Dressmann
 • Customer service and product handling  
 • Recognized multiple times as Salesperson of the Month  
 
